@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import Facebook from './facebook.jsx';
+import Facebook from './Component/facebook.jsx';
 import logo from './logo.svg';
-import './App.css';
 
 class App extends Component {
   render() {
