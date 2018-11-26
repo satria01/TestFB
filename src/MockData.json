@@ -1,0 +1,8 @@
+{
+"status": true,
+"data": {
+    "date": [1,2,3,4,5],
+    "month": ["January","February","Maret"],
+    "year": [2000,2001,2002]
+    }
+}
